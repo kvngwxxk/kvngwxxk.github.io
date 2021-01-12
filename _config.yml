@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Kangwook Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**iOS Developer**"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"

@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kangwook Lee"
-  avatar           : "/Users/kangwook/Documents/GitHub/kvngwxxk.github.io/assets/kangwook.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/kangwook.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**iOS Developer**"
   location         : "Seoul, Republic of Korea"
   email            : "zu7342@gmail.com"
